@@ -13,4 +13,6 @@ Here we used a
 2. RGB LED
 3. BUZZER(TMB12A05)
 4. connecting wires
-5, Arduino SDK
+5. Arduino SDK
+6. Bread Board
+7. Resistors
